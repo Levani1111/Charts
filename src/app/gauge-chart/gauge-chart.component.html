@@ -1,0 +1,11 @@
+<ngx-charts-gauge
+  [view]="view"
+
+  [results]="productSales"
+  [legend]="legend"
+ 
+  (select)="onSelect($event)"
+  (activate)="onActivate($event)"
+  (deactivate)="onDeactivate($event)"
+>
+</ngx-charts-gauge>
