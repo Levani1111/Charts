@@ -1,6 +1,8 @@
 # AngularCharts
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
+This is charts project was generated with 
+* [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
+* chart.js
 
 ## Development server
 
