@@ -7,6 +7,9 @@ This is charts project was generated with
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
+#### Deployment
+Coming up soon 
+
 <hr>
 
 ##### Created by Levani Papashvili @2021
