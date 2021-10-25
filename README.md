@@ -1,14 +1,13 @@
 # AngularCharts
 
-This is charts project was generated with 
-* [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
-* chart.js
-## Build
+This is charts project was generated with
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
+- [chart.js](https://www.chartjs.org/)
 
 #### Deployment
-Coming up soon 
+
+netlify.com - https://angular12-charts.netlify.app/
 
 <hr>
 
